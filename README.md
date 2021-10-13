@@ -1,6 +1,6 @@
 ## MBTA Project
 Uses the [MBTA APIs](https://api-v3.mbta.com/docs/swagger/index.html)
-to provide the following information:
+to provide the following:
 - All “subway” (light & heavy rail) route long-names
 - The name of the subway route with the most stops as well as a count of its stops
 - The name of the subway route with the fewest stops as well as a count of its stops
