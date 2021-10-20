@@ -1,1 +1,0 @@
-start up script that runs the docker image and launches the notebook
