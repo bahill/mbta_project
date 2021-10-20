@@ -1,5 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bahill/mbta_project/main?labpath=MBTA_Project.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bahill/mbta_project/fe4feb04dd3684585edd3da271a1b8d00e6224d8?labpath=MBTA_Project.ipynb)
+# canonical https://mybinder.org/v2/gh/bahill/mbta_project/main?labpath=MBTA_Project.ipynb
 
 ## MBTA Project
 Uses the [MBTA APIs](https://api-v3.mbta.com/docs/swagger/index.html)
@@ -13,6 +13,8 @@ route names for each of those stops.
 
 Click on the launch binder link to launch the notebook containing the functions which produce the requested output
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bahill/mbta_project/main?labpath=MBTA_Project.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bahill/mbta_project/fe4feb04dd3684585edd3da271a1b8d00e6224d8?labpath=MBTA_Project.ipynb)
+https://mybinder.org/v2/gh/bahill/mbta_project/fe4feb04dd3684585edd3da271a1b8d00e6224d8?labpath=MBTA_Project.ipynb
+
 
 Further discussion of the algorithms, methods and tests (such as they are) are included in the notebook.
