@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bahill/mbta_project/main?labpath=MBTA_Project.ipynb)
+
+
 ## MBTA Project
 Uses the [MBTA APIs](https://api-v3.mbta.com/docs/swagger/index.html)
 to provide the following:
