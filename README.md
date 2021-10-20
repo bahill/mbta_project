@@ -13,7 +13,6 @@ route names for each of those stops.
 
 Click on the launch binder link to launch the notebook containing the functions which produce the requested output
 
-Further discussion of the algorithms, methods and tests (such as they are) are included in the notebook.
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bahill/mbta_project/main?labpath=MBTA_Project.ipynb)
 
+Further discussion of the algorithms, methods and tests (such as they are) are included in the notebook.
